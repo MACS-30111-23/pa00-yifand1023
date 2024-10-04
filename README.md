@@ -12,6 +12,19 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
 
+# 1. My Biography
+Hi, my name is *Yifan Ding*, a first-year MACSS student on Sociology track from China. I am really into cooking, traveling, and hiking. Nice to meet you all.
+# 2. My Profile
+![Sorry](Profile_Photo.jpeg)
+# 3. Link
+[Here is my LinkedIn Homepage](https://www.linkedin.com/in/yifanding1023/)
+# 4. Summary and Reflection
+##  1. What I learned
+    I learned how to use Git and GitHub to manage my work by creating branches, making commits, and pushing changes. Markdown was also straightforward and useful for creating headers, lists, links, and embedding images.
+##  2. What surprised me
+    I was surprised by how easy it was to format documents with Markdown, making it a great tool for clear documentation.
+
+
 
 
 ## 📚  Resources 
